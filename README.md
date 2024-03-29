@@ -10,5 +10,5 @@ The dataset utilized for training comprises manually annotated images extracted 
 
 The outcomes of the object detection process are available for review:
 
-- **Images:** Results of object detection in images can be found in the `/results` directory.
-- **Videos:** The model's performance has been evaluated on videos, and sample results are included in the `/results` section.
+- **Images:** Results of object detection in images can be found in the `/runs/detect/predict/` directory.
+- **Videos:** The model's performance has been evaluated on videos, and sample results are included in the `/runs/detect/` section.
