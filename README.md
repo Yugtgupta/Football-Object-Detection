@@ -4,7 +4,7 @@ This repository hosts a pretrained YOLOv8 model designed for object detection in
 
 ## Dataset
 
-The dataset utilized for training comprises manually annotated images extracted from various football matches. These annotations provide the necessary labels for the model to recognize the specified classes accurately. The dataset is accessible in the `/dataset` directory.
+The dataset utilized for training comprises manually annotated images extracted from various football matches. These annotations provide the necessary labels for the model to recognize the specified classes accurately. The dataset is accessible in the `datasets/Football-players-detection-1` directory.
 
 ## Results
 
